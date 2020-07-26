@@ -1,4 +1,4 @@
-name: example-environment
+name: 1MinCandleTest
 channels:
   - conda-forge
 dependencies:
